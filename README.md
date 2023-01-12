@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Qianwei Yin
 
-<!--
-**qianwei-yin/qianwei-yin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[🥳 Linkedin](https://www.linkedin.com/in/qianweiyin/)
 
-Here are some ideas to get you started:
+[📨 Gmail](mailto:qianweiyin22@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[📤 Outlook](mailto:yin.qian@northeastern.edu)
+
+[🤩 Spotify](https://open.spotify.com/user/315mdpszp5q5zjrkd5k2tal6gzku)
+
+[👀 Qianwei's House](https://qianweiyin.com)
+
+### About Me 👦
+
+- 🌱 I'm currently learning: Spring Boot.
+- 🔭 I’m currently seeking SDE internships...
+- 🏠 I finished my undergraduate study in China and now in US for master growing!
+- 💻 For now, I like React.js and Python.
+- ⚡ Fun fact: I'm a cat fanatic and one of swifties!
