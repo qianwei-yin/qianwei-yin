@@ -12,7 +12,7 @@
 
 ### About Me 👦
 
-- 🌱 I'm currently learning: Spring Boot.
+- 🌱 I'm currently learning: Docker.
 - 🔭 I’m currently seeking SDE internships...
 - 🏠 I finished my undergraduate study in China and now in US for master growing!
 - 💻 For now, I like React.js and Python.
