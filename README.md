@@ -15,5 +15,4 @@
 - 🌱 I'm currently learning: Docker.
 - 🔭 I’m currently seeking SDE internships...
 - 🏠 I finished my undergraduate study in China and now in US for master growing!
-- 💻 For now, I like React.js and Python.
 - ⚡ Fun fact: I'm a cat fanatic and one of swifties!
