@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Qianwei Yin
 
-- 🌱 I'm currently learning: Docker.
+- 🌱 I'm currently learning: Unit Testing.
 - 🔭 I’m currently seeking SDE internships...
 - 🏠 I finished my undergraduate study in China and now in US for master growing!
 - ⚡ Fun fact: I'm a cat fanatic and one of swifties!
